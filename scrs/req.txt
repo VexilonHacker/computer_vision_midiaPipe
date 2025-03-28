@@ -1,0 +1,6 @@
+mediapipe
+pyalsaaudio
+numpy
+pyautogui
+opencv-python
+
